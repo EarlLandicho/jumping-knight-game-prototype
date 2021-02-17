@@ -1,0 +1,834 @@
+fileFormatVersion: 2
+guid: f648b314b006ba742a87e17ec69f9159
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TheKnight160x160_0
+    21300002: TheKnight160x160_1
+    21300004: TheKnight160x160_2
+    21300006: TheKnight160x160_3
+    21300008: TheKnight160x160_4
+    21300010: TheKnight160x160_5
+    21300012: TheKnight160x160_6
+    21300014: TheKnight160x160_7
+    21300016: TheKnight160x160_8
+    21300018: TheKnight160x160_9
+    21300020: TheKnight160x160_10
+    21300022: TheKnight160x160_11
+    21300024: TheKnight160x160_12
+    21300026: TheKnight160x160_13
+    21300028: TheKnight160x160_14
+    21300030: TheKnight160x160_15
+    21300032: TheKnight160x160_16
+    21300034: TheKnight160x160_17
+    21300036: TheKnight160x160_18
+    21300038: TheKnight160x160_19
+    21300040: TheKnight160x160_20
+    21300042: TheKnight160x160_21
+    21300044: TheKnight160x160_22
+    21300046: TheKnight160x160_23
+    21300048: TheKnight160x160_24
+    21300050: TheKnight160x160_25
+    21300052: TheKnight160x160_26
+    21300054: TheKnight160x160_27
+    21300056: TheKnight160x160_28
+    21300058: TheKnight160x160_29
+    21300060: TheKnight160x160_30
+    21300062: TheKnight160x160_31
+    21300064: TheKnight160x160_32
+    21300066: TheKnight160x160_33
+    21300068: TheKnight160x160_34
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TheKnight160x160_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa35398ac8679144c8767b18fe8fed8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheKnight160x160_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1440
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773d305bf1fc5d14e9d3a13966130e2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheKnight160x160_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1440
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557f762281c4f2d43b7c0302b7d372b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheKnight160x160_3
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1440
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e65edcdf4f6a24c85906f7a19b05e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheKnight160x160_4
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1440
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397bd0b3c897ea54eb911b2ffd3f6cb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheKnight160x160_5
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1440
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e138a115533c23469ea36b22fd978ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheKnight160x160_6
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1440
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3fb829d291162458d1c65af0b8bf69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheKnight160x160_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa475e7f215feb4abc16da14aa627a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheKnight160x160_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1280
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b48ef6020c792c428e230dda30624ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheKnight160x160_9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1280
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eff8d8d3a054854cb22f5b276900b9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheKnight160x160_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1280
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e0cdaf75baf004e822f48de12d5b03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheKnight160x160_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1120
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79646c70df1ff8e42ac55703d87f5cf5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheKnight160x160_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1120
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc793ca31e43d94da27c1407c114acd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheKnight160x160_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1120
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9e91798138f31468baa94a4350e2f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheKnight160x160_14
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1120
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbc1ed08d5334949ac5e10ae1579975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheKnight160x160_15
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1120
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7342a3a502e56f440ac3378f24c0d4ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheKnight160x160_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f72df57f3e55c468dfe28b3972a0c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheKnight160x160_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 960
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfecf7ee9c79be4499ce0c01cbf8b94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheKnight160x160_18
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24e9b46e8a73594089ebece1c216058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheKnight160x160_19
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 960
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c409cf9be338683459513004cf7b5bf5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheKnight160x160_20
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 960
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafba56573e867e4796b1719d64bcd23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheKnight160x160_21
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 960
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8a730916744994aa2f1e5f83996dee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheKnight160x160_22
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 960
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b24ab0ce4378843b03f2bacf0350a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheKnight160x160_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a1b867b505dcb41b231abae3984e7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheKnight160x160_24
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 800
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75610558164a7164ea881a0e6149da57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheKnight160x160_25
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 800
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86940eb3ee13d141b9ea4def6131e97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheKnight160x160_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 800
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb73b7c898c39144ad79453124359ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheKnight160x160_27
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 800
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf90ea64b0d1c441a8c034478699121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheKnight160x160_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c254dd481c40864fb83e5fb35bd76ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheKnight160x160_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 640
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8337df512f9b1d645a907ca14a6e5892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheKnight160x160_30
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ca3abd74f948a4288a4dc49aff8752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheKnight160x160_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef5036e2f9653f459ede6d3a4e0bf82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheKnight160x160_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765592f31b224bd45a4fedbf236979f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheKnight160x160_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 480
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da79d7ed4ddace4e87ede8c4decbbb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheKnight160x160_34
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2afe238ba32674aa5c6905928218aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 34d2ec1adec6fb744baa679a94c63cce
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

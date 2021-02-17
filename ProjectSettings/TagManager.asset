@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Chest
+  - Attack
+  - Wall
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Jumpable
+  - Trigger
+  - Player
+  - Enemy
+  - Floor
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 2317779195
+    locked: 0
+  - name: Wall
+    uniqueID: 685321107
+    locked: 0
+  - name: Floor
+    uniqueID: 538139947
+    locked: 0
